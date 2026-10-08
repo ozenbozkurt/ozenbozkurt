@@ -13,7 +13,26 @@ My background is in aviation, and I am developing a focused technical profile ar
 - Developing a portfolio around aviation operations + data
 - Preparing for international opportunities in aviation analytics, operations, and data roles
 
-## Featured project
+## Featured projects
+
+### [Aviation Disruption Intelligence](https://github.com/ozenbozkurt/aviation-disruption-intelligence)
+
+An end-to-end aviation disruption-risk analytics service combining **FastAPI, DuckDB, live weather, explainable scoring, automated tests, CI, and cloud deployment**.
+
+**Live demo:** https://aviation-disruption-intelligence.onrender.com  
+**Interactive API docs:** https://aviation-disruption-intelligence.onrender.com/docs
+
+**What it demonstrates**
+- Python package architecture
+- FastAPI + OpenAPI
+- DuckDB + SQL feature engineering
+- provider-independent weather integration
+- Open-Meteo live-data adapter
+- explainable route-risk scoring
+- Windows/Linux CI and protected-main workflow
+- maintained GitHub release and cloud deployment
+
+> Current release: **v0.4.1**
 
 ### [Flight Delay Operations Intelligence](https://github.com/ozenbozkurt/flight-delay-operations-intelligence)
 
@@ -23,12 +42,12 @@ A reproducible Python toolkit for analyzing flight-delay CSV data and producing 
 - Python package + command-line interface
 - pandas-based data analysis
 - Official BTS-style CSV compatibility
-- Regression testing
+- regression testing
 - GitHub Actions CI on Windows and Linux
-- Open-source contribution workflow
-- Release, roadmap, changelog, and maintainer practices
+- open-source contribution workflow
+- release, roadmap, changelog, and maintainer practices
 
-> Current milestone: **v0.2.0 — reliable large-file analysis**
+> Current focus: **v0.2.0 — reliable large-file analysis**
 
 ## Technical direction
 
@@ -37,7 +56,7 @@ A reproducible Python toolkit for analyzing flight-delay CSV data and producing 
 | Data | Python, pandas, SQL |
 | Engineering | Git, GitHub, automated testing, CI |
 | Aviation | Flight operations, delay analytics, operational risk |
-| Building next | Data pipelines, APIs, dashboards, applied ML/AI |
+| Building next | APIs, data pipelines, dashboards, evaluation, applied ML/AI |
 
 ## What I want to build
 
