@@ -1,10 +1,10 @@
 # Özen Bozkurt
 
-### Aviation Operations × Data Analytics × Python
+### Pilotage Graduate & Pilot | Aviation Operations × Data Analytics × Python
 
 I build practical, reproducible tools that turn aviation data into operational insight and better decisions.
 
-My background is in aviation, and I am developing a focused technical profile around **aviation operations analytics, Python, data analysis, and applied AI**. I am especially interested in flight operations, disruption and delay risk, decision-support systems, and data-driven operational improvement.
+I am a **Pilotage graduate and pilot with hands-on flight and aviation operations experience**, now building a focused technical profile at the intersection of **aviation operations, data analytics, Python, and applied AI**. I am especially interested in flight operations, disruption and delay risk, decision-support systems, and data-driven operational improvement.
 
 ## Current focus
 
