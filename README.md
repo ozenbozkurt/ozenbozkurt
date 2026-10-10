@@ -20,7 +20,8 @@ I am a **Pilotage graduate and pilot with hands-on flight and aviation operation
 An end-to-end aviation disruption-risk analytics service combining **FastAPI, DuckDB, live weather, explainable scoring, automated tests, CI, and cloud deployment**.
 
 **Live demo:** https://aviation-disruption-intelligence.onrender.com  
-**Interactive API docs:** https://aviation-disruption-intelligence.onrender.com/docs
+**Interactive API docs:** https://aviation-disruption-intelligence.onrender.com/docs  
+**Featured case study:** [Germany Network Performance — September 2026](https://github.com/ozenbozkurt/aviation-disruption-intelligence/blob/main/case-studies/germany-september-2026.md)
 
 **What it demonstrates**
 - Python package architecture
