@@ -21,6 +21,7 @@ An end-to-end aviation disruption-risk analytics service combining **FastAPI, Du
 
 **Live demo:** https://aviation-disruption-intelligence.onrender.com  
 **Interactive API docs:** https://aviation-disruption-intelligence.onrender.com/docs  
+**Germany operations dashboard:** https://aviation-disruption-intelligence.onrender.com/dashboard/germany-september-2026  
 **Featured case study:** [Germany Network Performance — September 2026](https://github.com/ozenbozkurt/aviation-disruption-intelligence/blob/main/case-studies/germany-september-2026.md)
 
 **What it demonstrates**
