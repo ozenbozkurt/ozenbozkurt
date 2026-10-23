@@ -17,7 +17,7 @@ I am a **Pilotage graduate and pilot with hands-on flight and aviation operation
 
 ### [Aviation Disruption Intelligence](https://github.com/ozenbozkurt/aviation-disruption-intelligence)
 
-An end-to-end aviation disruption-risk analytics service combining **FastAPI, DuckDB, live weather, explainable scoring, automated tests, CI, and cloud deployment**.
+An end-to-end aviation operations analytics project combining **real EUROCONTROL network-performance data, DuckDB, Parquet/CSV analytical exports, FastAPI, live weather, explainable scoring, automated tests, CI, and cloud deployment**.
 
 **Live demo:** https://aviation-disruption-intelligence.onrender.com  
 **Interactive API docs:** https://aviation-disruption-intelligence.onrender.com/docs  
@@ -27,14 +27,18 @@ An end-to-end aviation disruption-risk analytics service combining **FastAPI, Du
 **What it demonstrates**
 - Python package architecture
 - FastAPI + OpenAPI
-- DuckDB + SQL feature engineering
+- real EUROCONTROL network-performance ingestion
+- DuckDB persistence + SQL analytical workflows
+- Power BI-ready CSV and Parquet exports
+- Germany September 2026 operational case study
+- transparent period-relative disruption index
+- recruiter-facing live dashboard
 - provider-independent weather integration
-- Open-Meteo live-data adapter
 - explainable route-risk scoring
 - Windows/Linux CI and protected-main workflow
-- maintained GitHub release and cloud deployment
+- cloud deployment
 
-> Current release: **v0.4.1**
+> Current portfolio milestone: **v0.5.0**
 
 ### [Flight Delay Operations Intelligence](https://github.com/ozenbozkurt/flight-delay-operations-intelligence)
 
@@ -58,7 +62,7 @@ A reproducible Python toolkit for analyzing flight-delay CSV data and producing 
 | Data | Python, pandas, SQL |
 | Engineering | Git, GitHub, automated testing, CI |
 | Aviation | Flight operations, delay analytics, operational risk |
-| Building next | APIs, data pipelines, dashboards, evaluation, applied ML/AI |
+| Building next | SQL/BI depth, operational evaluation, stronger causal context, applied ML/AI |
 
 ## What I want to build
 
